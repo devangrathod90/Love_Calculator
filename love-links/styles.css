@@ -1,0 +1,23 @@
+body{
+    background-image: url("/Users/devangrathod/Desktop/dice_game/page1/her.png");
+}
+
+#love-links{
+    color: #ffff;
+}
+
+
+.navbar{
+    margin-top: 6px;
+    margin-bottom: 50px;
+}
+
+.brandname{
+    font-family: montserrat;
+    font-size: 30px;
+    color: #b60f0f;
+}
+
+h1{
+    padding-left: 10px;
+}
